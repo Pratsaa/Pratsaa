@@ -4,9 +4,9 @@
 Currently: building verification tooling and embedded projects.
 
 ## Featured Projects
-- 🎮 **FPGA Fruit Ninja** — VGA (640×480@60), BRAM sprites, MicroBlaze USB-HID mouse. [Repo](https://github.com/<username>/<repo>)
-- 🧪 **UVM Testbench Generator** — Python CLI generates agents/env/seqs from RTL. [Repo](https://github.com/<username>/<repo>)
-- 🧤 **Wireless MCU Glove** — BLE-based gesture glove with sensor fusion. [Repo](https://github.com/<username>/<repo>)
+- 🎮 **FPGA Fruit Ninja** — VGA (640×480@60), BRAM sprites, MicroBlaze USB-HID mouse. [Repo](https://github.com/<add-stuff-here>)
+- 🧪 **UVM Testbench Generator** — Python CLI generates agents/env/seqs from RTL. [Repo](https://github.com/Pratsaa/UVM-testbench-automation-project)
+- 🧤 **Wireless MCU Glove** — BLE-based gesture glove with sensor fusion. [Repo](https://github.com/Pratsaa/MCU-Based-Wireless-Glove)
 
 ## Skills
 **HDL:** SystemVerilog, Verilog · **Verification:** UVM, Formal · **FPGA:** Xilinx S7  
